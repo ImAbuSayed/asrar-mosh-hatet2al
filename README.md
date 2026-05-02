@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين في عتمة الليل
+> ونار الشوق ما ليها مثيل
+> غرامك ساكن في نبض القلوب
+> ومعاك كل الأحزان بتدوب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
