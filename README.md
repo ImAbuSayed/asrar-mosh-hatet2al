@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/asrar-mosh-hatet2al/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for Asrar Mosh Hatet2al](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Asrar Mosh Hatet2al](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
